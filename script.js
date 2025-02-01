@@ -136,7 +136,7 @@ function makeRequest(url, isPreview, text) {
         error: handleError
     });
 }
-
+api
 function handleSuccess(blob, isPreview, text) {
     console.log('Blob type:', blob.type); // 添加调试信息
     if (blob.type !== "audio/mpeg") {
