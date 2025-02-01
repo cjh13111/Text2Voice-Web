@@ -1,6 +1,6 @@
 {
     "voice-api": {
-        "url": "https://20240929.ttsapi.zwei.de.eu.org/tts",
+        "url": "https://tts.ebay.us.kg/tts",
         "speakers": {
             "zh-CN-XiaoxiaoNeural": "晓晓",
             "zh-CN-YunxiNeural": "云希",
